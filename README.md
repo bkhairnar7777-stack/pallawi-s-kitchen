@@ -186,16 +186,8 @@
     justify-content: center;
     text-decoration: none;
     transition: transform 0.3s;
-}
 
-.whatsapp-float:hover {
-    transform: scale(1.1);
-    background-color: #128c7e;
-}
-
-.whatsapp-text {
-    font-size: 12px;
-    font-weight: bold;
+.whatsapp-
 }
 <a href="https://wa.me/919274786484?text=Hello%20Pallawi'S%20Kitchen,%20I%20want%20to%20place%20an%20order!" 
    class="whatsapp-float" 
