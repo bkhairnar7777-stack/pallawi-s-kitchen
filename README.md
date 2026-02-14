@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/25316263/index.html)
+[index.html](https://github.com/user-attachments/files/25316822/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -71,7 +71,7 @@
     <section id="home" class="hero" style="max-width: 100%; padding: 0;">
         <div class="hero-content">
             <h1>Pallawi'S Kitchen</h1>
-            <p>Delicious Fast Food Ever | Pizza starting at ₹99</p>
+            <p>Delicious Fast Food Ever | Pizza starting at ₹139</p>
             <a href="#menu" class="btn">View Menu</a>
         </div>
     </section>
@@ -84,7 +84,7 @@
                 <div class="menu-info">
                     <h3>Cheesy Pasta Pizza</h3>
                     <p>Our signature fusion pizza loaded with cheese and pasta.</p>
-                    <span class="price-tag">Starting at ₹99</span>
+                    <span class="price-tag">Starting at ₹139</span>
                 </div>
             </div>
             <div class="menu-item">
@@ -202,3 +202,41 @@
    target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 35px; height: 35px;">
 </a>
+<section id="drinks" style="background-color: #fff; padding: 4rem 1rem;">
+    <h2 class="section-title">Cold Drinks & Beverages</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
+        
+        <div class="menu-item" style="border-top: 5px solid #004b93;">
+            <div class="menu-info">
+                <h3 style="color: #004b93;">PEPSI</h3>
+                <p>Refreshing chilled cola (250 ml)</p>
+                <span class="price-tag">₹35</span>
+            </div>
+        </div>
+
+        <div class="menu-item" style="border-top: 5px solid #002d62;">
+            <div class="menu-info">
+                <h3 style="color: #002d62;">THUMS UP</h3>
+                <p>Strong taste, thunder in a bottle (250 ml)</p>
+                <span class="price-tag">₹35</span>
+            </div>
+        </div>
+
+        <div class="menu-item" style="border-top: 5px solid #ed1c24;">
+            <div class="menu-info">
+                <h3 style="color: #ed1c24;">COCA COLA</h3>
+                <p>Classic refreshing taste (250 ml)</p>
+                <span class="price-tag">₹35</span>
+            </div>
+        </div>
+
+        <div class="menu-item" style="border-top: 5px solid #006a4e;">
+            <div class="menu-info">
+                <h3 style="color: #006a4e;">SOSYO</h3>
+                <p>The pride of Gujarat - Cider Drink (250 ml)</p>
+                <span class="price-tag">₹40</span>
+            </div>
+        </div>
+
+    </div>
+</section>
