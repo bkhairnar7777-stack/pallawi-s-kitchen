@@ -186,17 +186,6 @@
     justify-content: center;
     text-decoration: none;
     transition: transform 0.3s;
-
-.whatsapp-
-}
-<a href="https://wa.me/919274786484?text=Hello%20Pallawi'S%20Kitchen,%20I%20want%20to%20place%20an%20order!" 
-   class="whatsapp-float" 
-   target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 35px; height: 35px;">
-</a>
-<section id="drinks" style="background-color: #fff; padding: 4rem 1rem;">
-    <h2 class="section-title">Cold Drinks & Beverages</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
         
         <div class="menu-item" style="border-top: 5px solid #004b93;">
             <div class="menu-info">
